@@ -6,6 +6,6 @@
     <title>Strona</title>
 </head>
 <body>
-   <p>Folder 2 modified</p> 
+   <p>Folder 2</p> 
 </body>
 </html>
