@@ -24,6 +24,6 @@
     //Zadanie 5
     $wiek = 14;
     if($wiek < 11) echo "dziecko";
-    else if ($wiek < 17) echo "nastolatek";
+    else if ($wiek < 18) echo "nastolatek";
     else echo "dorosły";
 ?>
